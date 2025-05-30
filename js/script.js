@@ -57,6 +57,12 @@ const config = {
                 skinUrlOrPathToFile: "",
                 rankColor: "rgb(3, 255, 242)"
             },
+            {
+                inGameName: "ItzLabib_",
+                rank: "Owner",
+                skinUrlOrPathToFile: "",
+                rankColor: "rgb(3, 255, 242)"
+            },
         ],
         developers: [
             {
